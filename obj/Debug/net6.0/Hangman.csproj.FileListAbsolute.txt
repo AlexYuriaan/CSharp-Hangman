@@ -1,0 +1,15 @@
+C:\Users\thata\source\repos\Hangman\bin\Debug\net6.0\Hangman.exe
+C:\Users\thata\source\repos\Hangman\bin\Debug\net6.0\Hangman.deps.json
+C:\Users\thata\source\repos\Hangman\bin\Debug\net6.0\Hangman.runtimeconfig.json
+C:\Users\thata\source\repos\Hangman\bin\Debug\net6.0\Hangman.dll
+C:\Users\thata\source\repos\Hangman\bin\Debug\net6.0\Hangman.pdb
+C:\Users\thata\source\repos\Hangman\obj\Debug\net6.0\Hangman.csproj.AssemblyReference.cache
+C:\Users\thata\source\repos\Hangman\obj\Debug\net6.0\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thata\source\repos\Hangman\obj\Debug\net6.0\Hangman.AssemblyInfoInputs.cache
+C:\Users\thata\source\repos\Hangman\obj\Debug\net6.0\Hangman.AssemblyInfo.cs
+C:\Users\thata\source\repos\Hangman\obj\Debug\net6.0\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\thata\source\repos\Hangman\obj\Debug\net6.0\Hangman.dll
+C:\Users\thata\source\repos\Hangman\obj\Debug\net6.0\refint\Hangman.dll
+C:\Users\thata\source\repos\Hangman\obj\Debug\net6.0\Hangman.pdb
+C:\Users\thata\source\repos\Hangman\obj\Debug\net6.0\Hangman.genruntimeconfig.cache
+C:\Users\thata\source\repos\Hangman\obj\Debug\net6.0\ref\Hangman.dll
